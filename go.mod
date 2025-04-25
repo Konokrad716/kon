@@ -1,3 +1,1 @@
-module github.com/Konokrad716/testmod
-
-go 1.23.2
+module github.com/Konokrad716/testmod/v2
